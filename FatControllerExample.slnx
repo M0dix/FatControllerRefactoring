@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FatControllerExample.Tests/FatControllerExample.Tests.csproj" />
+  <Project Path="FatControllerExample/FatControllerExample.csproj" />
+</Solution>
